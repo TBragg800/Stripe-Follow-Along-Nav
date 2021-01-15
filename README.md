@@ -19,8 +19,7 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of this exercise is 
-  . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of this exercise is to build a replica of the navigation bar from [Stripe](https://stripe.com/). All of the dropdowns share a background and when the mouse hovers one of the hoverable elements, the styles are added and the size and new coordinates are calculated for the background. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
